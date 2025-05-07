@@ -1,0 +1,5 @@
+GET http://localhost:5001/registar/
+Content-Type: application/json
+
+###
+GET http://localhost:5001/registar/?page=2
